@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Netflix 클론 코딩
+* React 환경
+* TMDB API 사용
+
+## TMDB API
+영화 정보 TMDB API 사용<br />
+[TMDB 사이트 링크](https://www.themoviedb.org/?language=ko)
+
 ## Available Scripts
 
 In the project directory, you can run:
