@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 영화 정보 TMDB API 사용<br />
 [TMDB 사이트 링크](https://www.themoviedb.org/?language=ko)
 
+![image1](https://user-images.githubusercontent.com/64149514/94039642-f14d8300-fe02-11ea-827e-ccb91ce76965.JPG)
+
+![image2](https://user-images.githubusercontent.com/64149514/94039595-e266d080-fe02-11ea-9743-3bf40966d6ee.JPG)
+
 ## Available Scripts
 
 In the project directory, you can run:
